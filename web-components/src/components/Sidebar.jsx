@@ -91,6 +91,7 @@ const Sidebar = () => {
         </div>
       </aside>
 
+      
       {/* Main Content */}
       <main className="p-6 lg:ml-72">
         <h1 className="text-3xl font-bold"> Focus on Responsive Sidebar</h1>
