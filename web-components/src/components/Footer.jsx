@@ -34,9 +34,7 @@ const Footer = () => {
             </h2>
 
             <p className="mt-4 leading-7">
-              Build beautiful and responsive user interfaces
-              with React and Tailwind CSS. Designed for
-              developers who love clean components.
+              This is footer component
             </p>
           </div>
 
@@ -143,7 +141,7 @@ const Footer = () => {
         <div className="mt-12 border-t border-slate-700 pt-6">
           <div className="flex flex-col items-center justify-between gap-4 text-sm text-gray-400 md:flex-row">
             <p>
-              © {new Date().getFullYear()} Wevdev. All rights
+              © {new Date().getFullYear()} WevDev. All rights
               reserved.
             </p>
 
